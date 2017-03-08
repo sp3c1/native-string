@@ -1,0 +1,2 @@
+# native-string
+NodeJS Addon
